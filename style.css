@@ -11,3 +11,8 @@
 .cta a:first-child span{color:#d94b5c}
 .cta a:first-child:hover{background:#fff7f8}
 @media(max-width:650px){.problem{padding-bottom:55px}.cta{padding:26px 20px}.cta a:first-child{height:105px;padding:20px 24px}}
+
+/* Section rhythm after removing the trust block. */
+.solution{padding-bottom:92px}
+.solution+.service{padding-top:100px;background:linear-gradient(180deg,#f4f9fc 0,#fff 175px)}
+@media(max-width:650px){.solution{padding-bottom:65px}.solution+.service{padding-top:72px;background:linear-gradient(180deg,#f4f9fc 0,#fff 130px)}}
