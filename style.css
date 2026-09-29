@@ -12,7 +12,7 @@
 /* Illustration-led service overview. */
 .service-visual-grid{max-width:1080px;margin:62px auto 0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:58px 24px}
 .service-visual-grid article{text-align:center;min-width:0}
-.service-illustration{width:100%;max-width:230px;aspect-ratio:1;margin:0 auto;background-image:url("img/service-illustrations-v2.png");background-repeat:no-repeat;background-size:400% 200%}
+.service-illustration{width:100%;max-width:230px;aspect-ratio:1;margin:0 auto;background-image:url("img/service-illustrations-v2.webp");background-repeat:no-repeat;background-size:400% 200%}
 .service-illustration-01{background-position:0 0}
 .service-illustration-02{background-position:33.333% 0}
 .service-illustration-03{background-position:66.667% 0}
